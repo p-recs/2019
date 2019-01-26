@@ -5,7 +5,7 @@ feature_text: |
   2nd International Workshop on Practical Reproducible Evaluation of 
   Computer Systems.
 
-  June 25, 2018. In conjunction with [HPDC'18](http://hpdc.org/2018/). 
+  June 25, 2018. In conjunction with [HPDC'19](http://hpdc.org/2019/). 
   In cooperation with:
 
   ![[In cooperation with ACM](http://www.acm.org)](assets/acm-in-cooperation.png)      ![[In cooperation with SIGHPC](http://www.sighpc.org)](assets/sighpc.png)
@@ -238,4 +238,3 @@ page](http://www.hpdc.org/2018/registration/).
 ## Contact
 
 Please address workshop questions to <ivo@cs.ucsc.edu>.
-
