@@ -7,3 +7,5 @@ keywords: "reproducibility, automation, devops, sciops, hpdc"
 url: https://p-recs.github.io
 baseurl: "/2019"
 # baseurl: null
+
+theme: jekyll-theme-slate
