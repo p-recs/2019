@@ -71,7 +71,10 @@ Template](https://www.acm.org/publications/proceedings-template)
 ### Proceedings
 
 The proceedings will be archived in both the ACM Digital Library and 
-IEEE Xplore through SIGHPC.
+IEEE Xplore through SIGHPC. In addition, pre-print versions of the 
+accepted articles will be published in this website (as allowed by 
+[ACM's publishing 
+policy](https://www.acm.org/publications/policies/simultaneous-submissions)).
 
 ### Tools
 
