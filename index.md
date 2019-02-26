@@ -101,22 +101,23 @@ exhaustive list): [CWL](http://commonwl.org),
 
 ## Program Committee
 
-Jay Billings, Oak Ridge National Laboratory
-Ronald Boisvert, NIST
-Fernando Chirigati, New York University
-Neil Chue Hong, Software Sustainability Institute, EPCC, University of Edinburgh
-Robert Clay, Sandia National Labs
-Michael Crusoe, Common Workflow Language
-Dmitry Duplyakin, University of Utah
-Torsten Hoefler, ETH Zurich
-Fatma Imamoglu, University of California, Berkeley
-Daniel S. Katz, University of Illinois Urbana-Champaign
-Arnaud Legrand, CNRS / Inria / University of Grenoble
-Tanu Malik, DePaul University
-Robert Ricci, University of Utah
-Victoria Stodden, University of Illinois at Urbana-Champaign
-Violet Syrotiuk, Arizona State University
-Michela Taufer, University of Delaware
+  * Jay Billings, Oak Ridge National Laboratory
+  * Ronald Boisvert, NIST
+  * Fernando Chirigati, New York University
+  * Neil Chue Hong, Software Sustainability Institute, EPCC, University of Edinburgh
+  * Robert Clay, Sandia National Labs
+  * Michael Crusoe, Common Workflow Language
+  * Dmitry Duplyakin, University of Utah
+  * Torsten Hoefler, ETH Zurich
+  * Fatma Imamoglu, University of California, Berkeley
+  * Daniel S. Katz, University of Illinois Urbana-Champaign
+  * Arnaud Legrand, CNRS / Inria / University of Grenoble
+  * Tanu Malik, DePaul University
+  * Robert Ricci, University of Utah
+  * Victoria Stodden, University of Illinois at Urbana-Champaign
+  * Violet Syrotiuk, Arizona State University
+  * Michela Taufer, University of Delaware
+
 
 ## Contact
 
