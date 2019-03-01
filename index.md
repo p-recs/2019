@@ -103,6 +103,7 @@ exhaustive list): [CWL](http://commonwl.org),
 
   * Jay Billings, Oak Ridge National Laboratory
   * Ronald Boisvert, NIST
+  * Bruce R. Childers, University of Pittsburgh
   * Fernando Chirigati, New York University
   * Neil Chue Hong, Software Sustainability Institute, EPCC, University of Edinburgh
   * Robert Clay, Sandia National Labs
