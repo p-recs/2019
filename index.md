@@ -117,7 +117,7 @@ exhaustive list): [CWL](http://commonwl.org),
   * Robert Ricci, University of Utah
   * Victoria Stodden, University of Illinois at Urbana-Champaign
   * Violet Syrotiuk, Arizona State University
-  * Michela Taufer, University of Delaware
+  * Michela Taufer, University of Tennessee Knoxville
 
 
 ## Contact
