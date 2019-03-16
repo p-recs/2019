@@ -2,15 +2,22 @@
 layout: default
 ---
 
-This workshop will focus heavily on practical, actionable aspects of 
+The P-RECS'19 workshop will be held as a full-day meeting at [ACM HPDC 
+2019](http://hpdc.org/2019/) in Phoenix, Arizona, USA on June 24th, 
+2019. This year, HPDC runs under the [ACM Federated Computing 
+Research Conference](https://fcrc.acm.org/). This large federated 
+conference will assemble 11 affiliated conferences and will provide 
+excellent opportunities for interdisciplinary networking and learning.
+
+P-RECS workshop focuses heavily on practical, actionable aspects of 
 reproducibility in broad areas of computational science and data 
 exploration, with special emphasis on issues in which community 
 collaboration can be essential for adopting novel methodologies, 
 techniques and frameworks aimed at addressing some of the challenges 
-we face today. The workshop will bring together researchers and 
-experts to share experiences and advance the state of the art in the 
-reproducible evaluation of computer systems, featuring contributed 
-papers and invited talks.
+we face today. The workshop brings together researchers and experts to 
+share experiences and advance the state of the art in the reproducible 
+evaluation of computer systems, featuring contributed papers and 
+invited talks.
 
 
 ## Topics
@@ -89,7 +96,7 @@ exhaustive list): [CWL](http://commonwl.org),
   * Submissions due: April 9, 2019 (AoE)
   * Acceptance notification: April 30, 2019
   * Camera-ready paper submission: May 9, 2019
-  * Workshop: June 21, 2019 (**TENTATIVE**)
+  * Workshop: June 24, 2019
 
 ## Organizers
 
@@ -123,3 +130,4 @@ exhaustive list): [CWL](http://commonwl.org),
 ## Contact
 
 Please address workshop questions to <ivo@cs.ucsc.edu>.
+
