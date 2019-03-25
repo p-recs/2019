@@ -3,9 +3,7 @@ layout: default
 ---
 
 The P-RECS'19 workshop will be held as a full-day meeting at [ACM HPDC 
-2019](http://hpdc.org/2019/) in Phoenix, Arizona, USA on June 24th, 
-2019. This year, HPDC runs under the [ACM Federated Computing 
-Research Conference](https://fcrc.acm.org/). This large federated 
+2019](http://hpdc.org/2019/) in Phoenix, Arizona, USA on June 24th, 2019. This year, HPDC runs under the [ACM Federated Computing Research Conference](https://fcrc.acm.org/). This large federated 
 conference will assemble 11 affiliated conferences and will provide 
 excellent opportunities for interdisciplinary networking and learning.
 
