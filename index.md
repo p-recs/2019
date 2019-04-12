@@ -91,7 +91,7 @@ exhaustive list): [CK](http://ctuning.org), [CWL](http://commonwl.org),
 
 ## Important Dates
 
-  * Submissions due: ~April 9~ April 15, 2019 (AoE)
+  * Submissions due: ~~April 9~~ April 15, 2019 (AoE)
   * Acceptance notification: April 30, 2019
   * Camera-ready paper submission: May 9, 2019
   * Workshop: June 24, 2019
