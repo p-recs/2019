@@ -7,7 +7,7 @@ The P-RECS'19 workshop will be held as a full-day meeting at [ACM HPDC
 conference will assemble 11 affiliated conferences and will provide 
 excellent opportunities for interdisciplinary networking and learning.
 
-P-RECS workshop focuses heavily on practical, actionable aspects of 
+The P-RECS workshop focuses heavily on practical, actionable aspects of 
 reproducibility in broad areas of computational science and data 
 exploration, with special emphasis on issues in which community 
 collaboration can be essential for adopting novel methodologies, 
@@ -16,7 +16,6 @@ we face today. The workshop brings together researchers and experts to
 share experiences and advance the state of the art in the reproducible 
 evaluation of computer systems, featuring contributed papers and 
 invited talks.
-
 
 ## Topics
 
