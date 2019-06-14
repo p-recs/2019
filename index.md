@@ -69,11 +69,16 @@ We expect submissions from topics such as, but not limited to:
   * Kyle Chard, Niall Gaffney, Matthew Jones, Kacper Kowalik, Bertram 
     Ludascher, Jarek Nabrzyski, Victoria Stodden, Matthew Turk, Craig 
     Willis. _Implementing Computational Reproducibility in the Whole 
-    Tale Environment_
+    Tale Environment_.
 
   * Matthew S. Krafczyk, August Shi, Adhithya Bhaskar, Darko Marinov, 
     Victoria Stodden. _Continuous Integration Strategies in the 
     Scientific Software Context_.
+
+
+  * Andrea David, Mariette Souppe, Ivo Jimenez, Katia Obraczka, Sam 
+    Mansfield, Kerry Veenstra, Carlos Maltzahn. _Reproducible Computer 
+    Network Experiments: A Case Study Using Popper_.
 
 <!--
 ### Keynote Address
