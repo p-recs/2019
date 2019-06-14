@@ -46,7 +46,7 @@ We expect submissions from topics such as, but not limited to:
 | 10:15-10:45 | Coffee break                 |
 | 10:45-12:15 | Paper Presentations 1        |
 | 12:15-13:30 | Lunch (hosted by HPDC/FCRC)  |
-| 13:30-15:00 | Papers Presentations 2       |
+| 13:30-15:00 | Paper Presentations 2        |
 | 15:00-15:30 | Coffee Break                 |
 | 15:30-16:30 | Open discussion              |
 | 16:30-17:00 | Closing remarks              |
