@@ -18,6 +18,62 @@ evaluation of computer systems, featuring contributed papers and
 invited talks.
 
 
+## Schedule
+
+### Agenda
+
+|             |                              |
+|-------------|------------------------------|
+| 09:00-09:15 | Welcome                      |
+| 09:15-10:15 | Keynote (Dr. Carl Kesselman) |
+| 10:15-10:45 | Coffee break                 |
+| 10:45-12:15 | Paper Presentations 1        |
+| 12:15-13:30 | Lunch (hosted by HPDC/FCRC)  |
+| 13:30-15:00 | Papers Presentations 2       |
+| 15:00-15:30 | Coffee Break                 |
+| 15:30-16:30 | Open discussion              |
+| 16:30-17:00 | Closing remarks              |
+
+### Papers Session 1
+
+  * Dylan Chapp, Danny Rorabaugh, Duncan Brown, Ewa Deelman, Karan 
+    Vahi, Von Welch, Michela Taufer. _Applicability study of the 
+    PRIMAD model to LIGO gravitational wave search workflows_.
+
+  * David Stockton, Astrid Prinz, Fidel Santamaria. _Provenance and 
+    reproducibility in the automation of a standard computational 
+    neuroscience pipeline_.
+
+  * Von Welch, Ewa Deelman, Victoria Stodden. _Initial Thoughts on 
+    Cybersecurity And Reproducibility_.
+
+### Papers Session 2
+
+  * Kyle Chard, Niall Gaffney, Matthew Jones, Kacper Kowalik, Bertram 
+    Ludascher, Jarek Nabrzyski, Victoria Stodden, Matthew Turk, Craig 
+    Willis. _Implementing Computational Reproducibility in the Whole 
+    Tale Environment_
+
+  * Matthew S. Krafczyk, August Shi, Adhithya Bhaskar, Darko Marinov, 
+    Victoria Stodden. _Continuous Integration Strategies in the 
+    Scientific Software Context_.
+
+<!--
+### Keynote Address
+
+**Title**: Putting the Science into Data Science
+
+#### Abstract
+
+Something
+
+
+#### Bio
+
+Something
+
+-->
+
 ## Topics
 
 We expect submissions from topics such as, but not limited to:
