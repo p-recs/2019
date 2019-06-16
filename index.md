@@ -61,8 +61,8 @@ We expect submissions from topics such as, but not limited to:
     reproducibility in the automation of a standard computational 
     neuroscience pipeline_.
 
-  * Von Welch, Ewa Deelman, Victoria Stodden. _Initial Thoughts on 
-    Cybersecurity And Reproducibility_.
+  * Von Welch, Ewa Deelman, Victoria Stodden, Michela Taufer. _Initial 
+    Thoughts on Cybersecurity And Reproducibility_.
 
 ### Papers Session 2
 
