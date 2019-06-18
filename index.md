@@ -51,50 +51,75 @@ We expect submissions from topics such as, but not limited to:
 | 15:30-16:30 | Open discussion              |
 | 16:30-17:00 | Closing remarks              |
 
+### Keynote Address
+
+<img src="assets/carl.jpg" align="right" style="max-width: 35%; 
+max-height: 35%; padding-left: 10px; padding-bottom: 10px; 
+padding-top: 10px;">
+
+[Carl Kesselman (University of Southern California)](https://www.isi.edu/~carl/)
+
+**Title**: Making Lightening Strike Twice: Achieving reproducibility 
+and impact in a data-driven scientific environment.
+
+**Abstract**: A cornerstone of the scientific method is the ability 
+for one scientist to reproduce the results of another scientist. This 
+requires that investigators take explicit steps such as ensuring that 
+protocols are well defined, reagents and cell lines characterized and 
+validated, etc.  A critical aspect of this process is describing what 
+data has been collected and how it is analyzed.  While science has 
+always been driven by the collection, analysis and sharing of data, 
+technology advances have shifted data processing from the role of a 
+final analysis step to a core and integral part of the scientific 
+method. However, with the increased complexity of computational 
+methods and shear volume of data, achieving reproducibility of a 
+data-driven scientific investigation becomes correspondingly more 
+difficult. In my talk, I will describe the properties that data in a 
+scientific investigation should have to promote reproducibility. 
+Specifically, reproducibility requires that data should be Findable, 
+Interoperable, Accessible, or Reusable, or FAIR.  I will describe 
+methods and tools that can help promote reproducibility in data-driven 
+scientific research and will illustrate with examples from FaceBase, 
+an NIH funded consortium that is generating data associated with 
+caniofacial development and malformation.
+
+**Bio**: Dr. Carl Kesselman specializes in grid computing technologies. 
+This term was developed by him and professor Ian Foster in the book 
+The Grid: Blueprint for a New Computing Infrastructure. He and Foster 
+are winners of the British Computer Society's Lovelace Medal for their 
+grid work. He is institute fellow at the University of Southern 
+California's Information Sciences Institute and a professor in the 
+Epstein Department of Industrial and Systems Engineering, at the 
+University of Southern California.
+
 ### Papers Session 1
 
   * Dylan Chapp, Danny Rorabaugh, Duncan Brown, Ewa Deelman, Karan 
-    Vahi, Von Welch, Michela Taufer. _Applicability study of the 
-    PRIMAD model to LIGO gravitational wave search workflows_.
+    Vahi, Von Welch, Michela Taufer. **_Applicability study of the 
+    PRIMAD model to LIGO gravitational wave search workflows_**.
 
-  * David Stockton, Astrid Prinz, Fidel Santamaria. _Provenance and 
+  * David Stockton, Astrid Prinz, Fidel Santamaria. **_Provenance and 
     reproducibility in the automation of a standard computational 
-    neuroscience pipeline_.
+    neuroscience pipeline_**.
 
-  * Von Welch, Ewa Deelman, Victoria Stodden, Michela Taufer. _Initial 
-    Thoughts on Cybersecurity And Reproducibility_.
+  * Von Welch, Ewa Deelman, Victoria Stodden, Michela Taufer. 
+    **_Initial Thoughts on Cybersecurity And Reproducibility_**.
 
 ### Papers Session 2
 
   * Kyle Chard, Niall Gaffney, Matthew Jones, Kacper Kowalik, Bertram 
     Ludascher, Jarek Nabrzyski, Victoria Stodden, Matthew Turk, Craig 
-    Willis. _Implementing Computational Reproducibility in the Whole 
-    Tale Environment_.
+    Willis. **_Implementing Computational Reproducibility in the Whole 
+    Tale Environment_**.
 
   * Matthew S. Krafczyk, August Shi, Adhithya Bhaskar, Darko Marinov, 
-    Victoria Stodden. _Continuous Integration Strategies in the 
-    Scientific Software Context_.
+    Victoria Stodden. **_Continuous Integration Strategies in the 
+    Scientific Software Context_**.
 
 
   * Andrea David, Mariette Souppe, Ivo Jimenez, Katia Obraczka, Sam 
-    Mansfield, Kerry Veenstra, Carlos Maltzahn. _Reproducible Computer 
-    Network Experiments: A Case Study Using Popper_.
-
-<!--
-### Keynote Address
-
-**Title**: Putting the Science into Data Science
-
-#### Abstract
-
-Something
-
-
-#### Bio
-
-Something
-
--->
+    Mansfield, Kerry Veenstra, Carlos Maltzahn. **_Reproducible 
+    Computer Network Experiments: A Case Study Using Popper_**.
 
 ## Submission
 
